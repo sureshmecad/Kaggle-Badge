@@ -26,8 +26,8 @@ If you forgot your ID, you can go to your profile and check the string at the en
 ### Competition
 
 ```
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{your id}/competition)
-![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{your id}/competition/light)
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{A SURESH}/competition)
+![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{A SURESH}/competition/light)
 ```
 
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/competition)
