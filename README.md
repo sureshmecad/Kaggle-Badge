@@ -26,12 +26,12 @@ If you forgot your ID, you can go to your profile and check the string at the en
 ### Competition
 
 ```
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{A SURESH}/competition)
-![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{A SURESH}/competition/light)
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{your id}/competition)
+![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{your id}/competition/light)
 ```
 
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/competition)
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/competition/light)
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/A SURESH/competition)
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/A SURESH/competition/light)
 
 ### Dataset
 
@@ -40,8 +40,8 @@ If you forgot your ID, you can go to your profile and check the string at the en
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{your id}/dataset/light)
 ```
 
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/dataset)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/dataset/light)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/A SURESH/dataset)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/A SURESH/dataset/light)
 
 ### Notebook
 
@@ -50,8 +50,8 @@ If you forgot your ID, you can go to your profile and check the string at the en
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{your id}/notebook/light)
 ```
 
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/notebook)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/notebook/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/A SURESH/notebook)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/A SURESH/notebook/light)
 
 ### Discussion
 
@@ -60,8 +60,8 @@ If you forgot your ID, you can go to your profile and check the string at the en
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{your id}/discussion/light)
 ```
 
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/discussion)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/discussion/light)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/A SURESH/discussion)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/A SURESH/discussion/light)
 
 ## License
 
